@@ -14,6 +14,8 @@ To use this bookmark code:
 
 1. Copy the entire JavaScript code provided below.
 
+  [CopyContinuteGenCode ](https://github.com/TraxDinosaur/CopyContinuteGenCode/blob/main/CopyContinuteGenCode)
+
 2. Create a new bookmark in your web browser.
 
 3. Edit the bookmark and paste the copied JavaScript code into the URL/Location field.
@@ -23,3 +25,4 @@ To use this bookmark code:
 5. Whenever you're on a webpage with code blocks or using ChatGPT, simply click the bookmark to activate the functionalities.
 
 ## JavaScript Code
+  [CopyContinuteGenCode ](https://github.com/TraxDinosaur/CopyContinuteGenCode/blob/main/CopyContinuteGenCode)
