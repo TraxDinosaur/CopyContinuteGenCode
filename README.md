@@ -124,5 +124,4 @@ Use this script responsibly and only on websites where you have permission to ru
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/TraxDinosaur/CopyContinuteGenCode/blob/main/LICENSE).
-Feel free to further customize this README to better suit your preferences or provide additional information.
+This project is licensed under the [CC BY-SA 4.0 License](https://github.com/TraxDinosaur/CopyContinuteGenCode/blob/main/LICENSE).
